@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ティアドロップス",
+  "base_artist": "Poppin'Party",
+  "createdAt": "2025-12-01T05:36:34.561498Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ティアドロップス",
+      "artist": "柊キライ",
+      "has_synced": true,
+      "path": "select/01_ティアドロップス_柊キライ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ティアドロップス",
+      "artist": "Poppin'Party",
+      "has_synced": true,
+      "path": "select/02_ティアドロップス_Poppin'Party.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ティアドロップス -instrumental-",
+      "artist": "Poppin'Party",
+      "has_synced": true,
+      "path": "select/03_ティアドロップス_-instrumental-_Poppin'Party.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ティアドロップス",
+      "artist": "柊キライ feat. v flower",
+      "has_synced": true,
+      "path": "select/04_ティアドロップス_柊キライ_feat._v_flower.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ティアドロップス / flower",
+      "artist": "Hiiragi Kirai",
+      "has_synced": true,
+      "path": "select/05_ティアドロップス___flower_Hiiragi_Kirai.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Teardrops On My Guitar (Pop Version) = ティアドロップス・オン・マイ・ギター (Pop Version)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/06_Teardrops_On_My_Guitar_(Pop_Version)_=_ティアドロップス・オン・マイ・ギター_(Pop_Version)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ティアドロップス ~Popipa Acoustic Ver.~",
+      "artist": "Poppin'Party",
+      "has_synced": false,
+      "path": "select/07_ティアドロップス_~Popipa_Acoustic_Ver.~_Poppin'Party.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "teardrops",
+      "artist": "小野大輔",
+      "has_synced": false,
+      "path": "select/pl_01_teardrops_小野大輔.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "teardrops",
+      "artist": "小野大輔",
+      "has_synced": false,
+      "path": "select/pl_02_teardrops_小野大輔.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ティアドロップス",
+      "artist": "小野大輔",
+      "has_synced": false,
+      "path": "select/pl_03_ティアドロップス_小野大輔.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ティアドロップス",
+      "artist": "小野大輔",
+      "has_synced": false,
+      "path": "select/pl_04_ティアドロップス_小野大輔.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ティアドロップス ～Acoustic Ver.～",
+      "artist": "小野大輔",
+      "has_synced": false,
+      "path": "select/pl_05_ティアドロップス_~Acoustic_Ver.~_小野大輔.txt"
+    }
+  ]
+}
